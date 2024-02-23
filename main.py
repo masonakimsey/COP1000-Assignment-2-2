@@ -2,8 +2,8 @@
 # Input:  None
 # Output: Your current age followed by your age in 2050
 
-# Create your variables here
-
+myCurrentAge = 18
+currentYear = 2024
 myNewAge = myCurrentAge + (2050 - currentYear)
 print("My Current Age is " + str(myCurrentAge))
 print("I will be " + str(myNewAge) + " in 2050.")
